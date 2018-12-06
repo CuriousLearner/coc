@@ -7,7 +7,7 @@ Be respectful
 
 Respect yourself, and respect others. Be courteous to those around you. If someone indicates they don’t wish to be photographed, respect that wish. If someone indicates they would like to be left alone, let them be. Our event venues and online spaces may be shared with members of the public; please be considerate to all patrons of these locations.
 
-Before Direct Messaging someone, ask for their permission on the group. If they allow you to, only then proceed to do so. And remember that LinuxChix India is not a dating service. The people in here are here to learn, explore and socialze in a professional environment.
+Before Direct Messaging someone, ask for their permission on the group. If they allow you to, only then proceed to do so. The people in here are here to learn, explore and socialze in a professional environment.
 
 Be inclusive
 ============
@@ -59,11 +59,6 @@ Here are some examples of behaviours that have occurred at past events which are
     - unwelcome sexual attention;
     - sexist, racist, or other exclusionary jokes;
     - unwarranted exclusion from conference or related events based on age, gender, sexual orientation, disability, physical appearance, body size, race, religion;
-
-Any violation of the Code of Conduct will be dealth with a three step protocol. 
-1. An initial warning will be given
-2. If the offending party violates the CoC again, a 1 week ban will be placed
-3. If the offending party still doesn't comply, they will be permanently banned
 
 We want everyone to have a good time at our events. Be aware, be inclusive, be polite, be respectful and if you observe anything violating CoC, please report immediately to +91-<4dig>-<3dig>-<3dig> or mail to: <mail@ourcommunity.org>
 
